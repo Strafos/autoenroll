@@ -1,8 +1,8 @@
 # autoenroll
-Enroll into Cornell courses during add/drop
+Cycle through enrollment process to get in courses immediately when they open up. Initial courses must be added manually. 
 
 Dependencies: Selenium 
 
-Program will cycle through enrollment process. Courses must be added manually. 
-
-Add user info to config.py
+Make a config.py file in the same directory with user info:
+USR = 'netID'
+PW = 'password'

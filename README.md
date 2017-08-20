@@ -6,4 +6,5 @@ Dependencies: Selenium
 Make a config.py file in the same directory with user info:
 
 USR = 'netID'
+
 PW = 'password'
